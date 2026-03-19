@@ -1,9 +1,0 @@
-Hello, this is a aniket file.
-
-Name: Aniket Joshi
-Email: aniket.joshi23@vit.edu
-Phone: 9309319305
-PAN: ABCDE1234F
-Aadhaar: 1234 5678 9012
-
-End of file.
